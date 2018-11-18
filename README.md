@@ -4,21 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 20th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Anthony Haddad
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project is used to learn how the HTML DOM operates and how one can use JS to access and edit elements within the HTML document
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mrdad.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. You can use getElementsByID() in combination with addEventListener() to functionality to elements of the HTML document
+2. You can create document fragments and add them to the DOM tree using appendChild()
+3. Cloning nodes is more useful than rewriting lines of code when you need a new node that is the same or similar to an existing node
 
 # lesson6_javascript3
